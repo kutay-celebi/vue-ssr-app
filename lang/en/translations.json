@@ -1,0 +1,32 @@
+{
+  "common": {
+    "close": "Close",
+    "email": "E-Mail",
+    "isEnabled": {
+      "disabled": "Disabled",
+      "enabled": "Enabled",
+      "text": "Is Enabled?"
+    },
+    "save": "Save"
+  },
+  "enum": {
+    "gender": {
+      "female": "Female",
+      "male": "Male"
+    }
+  },
+  "user": {
+    "birthday": "Birthday",
+    "identificationNumber": "Identification Number",
+    "lastName": "Last Name",
+    "midName": "Mid Name",
+    "name": "Name",
+    "nationality": "Nationality",
+    "new": "New User",
+    "personalInfo": "Personal Information",
+    "surname": "Surname",
+    "title": "Title",
+    "userDefinition": "User Definition",
+    "username": "Username"
+  }
+}
